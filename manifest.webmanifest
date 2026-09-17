@@ -1,0 +1,24 @@
+{
+  "name": "NMAX V2 Garage",
+  "short_name": "NMAX Garage",
+  "description": "Personal Yamaha NMAX V2 maintenance, PMS, repair, fuel and parts tracker by WinLorenz.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b2d1b",
+  "theme_color": "#0b2d1b",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
